@@ -11,7 +11,7 @@ struct TestCase {
 class UnitTest {
 private:
     vector<TestCase> testcases;
-    //Solution obj;
+    Solution obj;
 
 public:
     UnitTest() {
